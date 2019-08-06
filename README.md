@@ -2,6 +2,8 @@
 Alias to compile a Mysql connector c++ file
 
 Can't compile your MySQL connector c++ files? Hate typing the names of all the libraries included?
+
+
 If you already have a bash_aliases file,just copy the alias into it
 
 
