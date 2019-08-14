@@ -19,6 +19,6 @@ g+ "your_file_name"
 
 
 
-P.S -- works for linux/Ubuntu users,you should have the libmysqlclient-dev library installed,to install it,type
+P.S -- works for linux/Ubuntu users,you should have the libmysqlcppconn-dev library installed,to install it,type
 
-sudo apt-get install libmysqlclient-dev
+sudo apt-get install libmysqlcppconn-dev
